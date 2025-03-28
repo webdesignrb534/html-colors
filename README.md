@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-</head>
+
 <body>
 
 <h1 style="text-align: center; font-family: 'Courier New', Courier, monospace; color: #2E8B57;">Peacock Color Scheme</h1>
@@ -54,4 +53,4 @@
 </table>
 
 </body>
-</html>
+
