@@ -1,33 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Peacock Color Scheme</title>
-<style>
-table {
-width: 100%;
-border-collapse: collapse;
-font-family: Arial, sans-serif;
-}
-th, td {
-padding: 10px;
-text-align: center;
-border: 1px solid #ddd;
-}
-th {
-font-size: 1.5em;
-background-color: #2E8B57; /* Deep Green */
-color: white;
-}
-.color-name {
-font-weight: bold;
-}
-.color-box {
-height: 50px;
-width: 100%;
-}
-</style>
 </head>
 <body>
 
