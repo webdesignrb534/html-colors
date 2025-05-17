@@ -1,56 +1,64 @@
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bird Feather Color Scheme</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+}
+h1 {
+font-family: 'Georgia', serif;
+text-align: center;
+color: #333;
+}
+table {
+width: 80%;
+margin: 0 auto;
+border-collapse: collapse;
+}
+th, td {
+padding: 10px;
+text-align: center;
+border: 1px solid #ccc;
+}
+th {
+background-color: #f0f0f0;
+}
+.blue { background-color: #0074D9; color: white; }
+.red { background-color: #FF4136; color: white; }
+.yellow { background-color: #FFDC00; color: black; }
+.green { background-color: #2ECC40; color: white; }
+</style>
+</head>
 <body>
 
-<h1 style="text-align: center; font-family: 'Courier New', Courier, monospace; color: #2E8B57;">Peacock Color Scheme</h1>
+<h1>Bird Feather Color Scheme</h1>
 
 <table>
-<thead>
 <tr>
-<th>Color Name</th>
-<th>Color Preview</th>
-<th>Hex</th>
-<th>RGB</th>
-<th>HSL</th>
+<th class="blue">Blue</th>
+<th class="red">Red</th>
+<th class="yellow">Yellow</th>
+<th class="green">Green</th>
 </tr>
-</thead>
-<tbody>
-<!-- Color 1: Peacock Blue -->
 <tr>
-<td class="color-name">Peacock Blue</td>
-<td class="color-box" style="background-color: #1F9AA6;"></td>
-<td>#1F9AA6</td>
-<td>RGB(31, 154, 166)</td>
-<td>HSL(180, 62%, 38%)</td>
+<td class="blue">#0074D9</td>
+<td class="red">#FF4136</td>
+<td class="yellow">#FFDC00</td>
+<td class="green">#2ECC40</td>
 </tr>
-
-<!-- Color 2: Deep Green -->
 <tr>
-<td class="color-name">Deep Green</td>
-<td class="color-box" style="background-color: #2E8B57;"></td>
-<td>#2E8B57</td>
-<td>RGB(46, 139, 87)</td>
-<td>HSL(146, 51%, 40%)</td>
+<td class="blue">rgb(0, 116, 217)</td>
+<td class="red">rgb(255, 65, 54)</td>
+<td class="yellow">rgb(255, 220, 0)</td>
+<td class="green">rgb(46, 204, 64)</td>
 </tr>
-
-<!-- Color 3: Golden Yellow -->
 <tr>
-<td class="color-name">Golden Yellow</td>
-<td class="color-box" style="background-color: #FFD700;"></td>
-<td>#FFD700</td>
-<td>RGB(255, 215, 0)</td>
-<td>HSL(51, 100%, 50%)</td>
+<td class="blue">hsl(207, 100%, 43%)</td>
+<td class="red">hsl(4, 100%, 61%)</td>
+<td class="yellow">hsl(51, 100%, 50%)</td>
+<td class="green">hsl(134, 63%, 49%)</td>
 </tr>
-
-<!-- Color 4: Deep Purple -->
-<tr>
-<td class="color-name">Deep Purple</td>
-<td class="color-box" style="background-color: #6A0DAD;"></td>
-<td>#6A0DAD</td>
-<td>RGB(106, 13, 173)</td>
-<td>HSL(280, 77%, 34%)</td>
-</tr>
-</tbody>
 </table>
-
-</body>
 
